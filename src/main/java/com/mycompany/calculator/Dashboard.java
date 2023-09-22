@@ -168,7 +168,7 @@ public class Dashboard extends javax.swing.JFrame implements Calculate {
         jPanel3.setLayout(jPanel3Layout);
         jPanel3Layout.setHorizontalGroup(
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 260, Short.MAX_VALUE)
+            .addGap(0, 190, Short.MAX_VALUE)
         );
         jPanel3Layout.setVerticalGroup(
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -176,7 +176,7 @@ public class Dashboard extends javax.swing.JFrame implements Calculate {
         );
 
         jPanel1.add(jPanel3);
-        jPanel3.setBounds(10, 0, 260, 120);
+        jPanel3.setBounds(10, 0, 190, 120);
 
         jPanel2.setBackground(new java.awt.Color(255, 255, 255));
         jPanel2.setLayout(null);
