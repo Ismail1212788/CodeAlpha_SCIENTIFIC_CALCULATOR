@@ -158,7 +158,7 @@ public class Dashboard extends javax.swing.JFrame implements Calculate {
 
         jLabel2.setFont(new java.awt.Font("Noto Sans", 1, 18)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("Lets Grow More Internship");
+        jLabel2.setText("Code Alpha Internship");
         jPanel1.add(jLabel2);
         jLabel2.setBounds(10, 230, 260, 73);
 
